@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-brand{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.nav-item a{
+    color: black;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.signin{
+    border-radius:20px;
+    padding: 10px;
+    color: white;
+}
+.btn{
+    border-radius: 20px;
+}
+.Illustration{
+    margin-bottom: 100px;
+}
+header{
+    background-color: #f0fff0;
+    padding: 2px;
+}
+.ab{
+    border:black;
+}
+header .row .col-md-7 h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.section-1{
+    padding: 80px;
+}
+.item-1{
+    background-color:#f0fff0;
+    padding: 25px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.item-2{
+    background-color: white;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: rgb(204, 204, 204) 5px 5px 20px;
+
+}
+.item-3{
+    background-color:#f0fff0;
+    padding: 25px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.item-4{
+    background-color:#f0fff0;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.text-muted{
+    padding-top: 5px;
+}
+.profile-text{
+    margin: 30px;
+    font-weight: 550;
+}
+.section-3{
+    padding-bottom: 60px;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: rgb(46, 45, 45);
+    padding: 10px;
+}
+
+.copyright{
+    padding-top: 70px;
+}
+.difpad{
+    padding-left: 8px;
+}
